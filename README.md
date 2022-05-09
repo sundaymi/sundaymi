@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-<!--
-- learning and working on Python and PHP
--->
+
+- learning and working on **Python** and **PHP**
