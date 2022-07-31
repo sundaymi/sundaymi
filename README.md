@@ -15,3 +15,11 @@ Other languages and framworks(basic khowledge):
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+
+### Stats
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sundaymi)](https://github.com/sundaymi)
+
+### Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaymi&layout=compact)](https://github.com/sundaymi)
