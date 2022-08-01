@@ -18,8 +18,8 @@ Other languages and framworks(basic khowledge):
 
 ### Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sundaymi)](https://github.com/sundaymi)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sundaymi&theme=github_dark)](https://github.com/sundaymi)
 
 ### Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaymi&layout=compact)](https://github.com/sundaymi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaymi&theme=github_dark)](https://github.com/sundaymi)
